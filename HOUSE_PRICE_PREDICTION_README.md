@@ -10,9 +10,9 @@ Python and Machine Learning.
 * Linear Regression
 
 ## How It Works
-1.Load the house price data.
-2.Train a Machine Learning model.
-3.Predict the estimate house price.
+1. Load the house price data.
+2. Train a Machine Learning model.
+3. Predict the estimate house price.
 
 ## What I Learned
 * Basics of Machine Learning
